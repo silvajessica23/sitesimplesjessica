@@ -133,6 +133,8 @@ footer {
     margin-top: 50px;
 }
 
+
+
 .menu-acessibilidade{
     position: fixed;
     top:2rem;
@@ -140,7 +142,7 @@ footer {
     z-index: 1000;
 }
 
-.rotacao-botao{
+.rotacao-botao {
     transform: rotate(-90deg);
     transform-origin: right center;
 }
